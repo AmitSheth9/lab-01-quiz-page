@@ -1,5 +1,5 @@
 
-import { countsAsAYes } from '../utils.js';
+import { countsAsAYes } from './utils.js';
 const test = QUnit.test;
 
 test('countsAsAYes input is yessir', (expect) => {

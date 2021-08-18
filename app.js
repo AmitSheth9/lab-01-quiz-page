@@ -8,7 +8,7 @@
   // use user input to update state 
   // update DOM to reflect the new state
 
-import { countsAsAYes } from '../utils.js';
+import { countsAsAYes } from './utils.js';
 
 const quizButton = document.getElementById('quizbutton');
 const correct = document.getElementById('quizresults');
